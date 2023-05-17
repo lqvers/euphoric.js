@@ -1,6 +1,6 @@
 {
   "name": "euphoric",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Effortlessly integrate with the Euphoric API, giving you access to over 20+ endpoints.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
