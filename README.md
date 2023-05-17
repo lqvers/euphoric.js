@@ -2,7 +2,7 @@
 <img src="https://images.weserv.nl/?url=euphoric.vercel.app/icon.png&h=275&mask=circle" />
 <h3>Euphoric - Free and Keyless API</h3>
 <i>Node.js Wrapper</i> <br><br>
-<a href="https://lovers.gitbook.io/euphoric-api"> <kbd> <br> Documentation <br> </kbd></a> 
+<a href="https://lover.gitbook.io/euphoric-api"> <kbd> <br> Documentation <br> </kbd></a> 
 <a href="https://discord.gg/FAwCN6sCsD"> <kbd> <br> Discord Server <br> </kbd></a>
 <h1>
 </div>
