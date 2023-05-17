@@ -1,0 +1,28 @@
+{
+  "name": "euphoric",
+  "version": "1.0.0",
+  "description": "Effortlessly integrate with the Euphoric API, giving you access to over 20+ endpoints.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "ts-node test/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "api",
+    "discord",
+    "api-wrapper",
+    "discord-api"
+  ],
+  "author": "lqvers",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node-fetch": "^2.6.4",
+    "axios": "^1.4.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
